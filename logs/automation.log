@@ -1,0 +1,94 @@
+23:38:29.336 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+23:38:32.073 [main] INFO  testCases.TC002_LoginTest - ****** Starting of th Login ******
+23:38:32.516 [main] INFO  testCases.TC002_LoginTest - ****** Close Browser ******
+23:40:40.582 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+23:40:43.311 [main] INFO  testCases.TC002_LoginTest - ****** Starting of th Login ******
+23:40:43.735 [main] INFO  testCases.TC002_LoginTest - ****** Close Browser ******
+23:41:41.762 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+23:41:44.375 [main] INFO  testCases.TC002_LoginTest - ****** Starting of th Login ******
+23:41:44.836 [main] INFO  testCases.TC002_LoginTest - ****** Close Browser ******
+23:44:24.086 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+23:44:26.802 [main] INFO  testCases.TC002_LoginTest - ****** Starting of th Login ******
+23:44:27.244 [main] INFO  testCases.TC002_LoginTest - ****** Close Browser ******
+23:54:42.143 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+23:54:47.891 [main] INFO  testCases.TC002_LoginTest - ****** Starting of th Login ******
+23:54:48.802 [main] INFO  testCases.TC002_LoginTest - ****** Verify Login Page ******
+23:54:49.649 [main] INFO  testCases.TC002_LoginTest - ****** Login Complete ******
+23:54:49.661 [main] INFO  testCases.TC002_LoginTest - ****** Close Browser ******
+13:23:29.523 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Initializing Browser ******
+13:23:55.154 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest ******
+13:24:16.067 [main] ERROR testCases.TC001_AccountRegistrationTest - ****** Test Failed... ******
+13:24:16.072 [main] DEBUG testCases.TC001_AccountRegistrationTest - ****** Debug Log... ******
+13:24:16.097 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Close Browser ******
+13:24:16.406 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+13:26:10.626 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+13:26:34.262 [main] INFO  testCases.TC002_LoginTest - ****** Starting of th Login ******
+13:26:55.229 [main] INFO  testCases.TC002_LoginTest - ****** Close Browser ******
+13:31:36.579 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Initializing Browser ******
+13:32:21.271 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+13:32:44.001 [main] INFO  testCases.TC002_LoginTest - ****** Starting of th Login ******
+13:32:54.070 [main] INFO  testCases.TC002_LoginTest - ****** Close Browser ******
+14:55:04.285 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Initializing Browser ******
+14:55:29.744 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest ******
+14:55:50.690 [main] ERROR testCases.TC001_AccountRegistrationTest - ****** Test Failed... ******
+14:55:50.690 [main] DEBUG testCases.TC001_AccountRegistrationTest - ****** Debug Log... ******
+14:55:50.713 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Close Browser ******
+14:55:50.974 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+15:03:21.577 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Initializing Browser ******
+15:03:25.573 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest ******
+15:03:35.637 [main] ERROR testCases.TC001_AccountRegistrationTest - ****** Test Failed... ******
+15:03:35.637 [main] DEBUG testCases.TC001_AccountRegistrationTest - ****** Debug Log... ******
+15:03:35.645 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Close Browser ******
+15:03:35.932 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+15:04:29.123 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Initializing Browser ******
+15:04:32.655 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest ******
+15:04:42.715 [main] ERROR testCases.TC001_AccountRegistrationTest - ****** Test Failed... ******
+15:04:42.716 [main] DEBUG testCases.TC001_AccountRegistrationTest - ****** Debug Log... ******
+15:04:42.726 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Close Browser ******
+15:04:43.002 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+15:04:45.732 [main] INFO  testCases.TC002_LoginTest - ****** Starting of th Login ******
+15:04:54.981 [main] INFO  testCases.TC002_LoginTest - ****** Close Browser ******
+15:08:53.092 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Initializing Browser ******
+15:08:55.814 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest ******
+15:09:16.121 [main] ERROR testCases.TC001_AccountRegistrationTest - ****** Test Failed... ******
+15:09:16.123 [main] DEBUG testCases.TC001_AccountRegistrationTest - ****** Debug Log... ******
+15:09:16.136 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Close Browser ******
+15:09:16.393 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+15:09:21.335 [main] INFO  testCases.TC002_LoginTest - ****** Starting of th Login ******
+15:09:31.362 [main] INFO  testCases.TC002_LoginTest - ****** Close Browser ******
+15:12:15.920 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Initializing Browser ******
+15:12:28.771 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest ******
+15:12:38.870 [main] ERROR testCases.TC001_AccountRegistrationTest - ****** Test Failed... ******
+15:12:38.870 [main] DEBUG testCases.TC001_AccountRegistrationTest - ****** Debug Log... ******
+15:12:38.886 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Close Browser ******
+15:12:39.206 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+15:12:53.510 [main] INFO  testCases.TC002_LoginTest - ****** Starting of th Login ******
+15:13:00.468 [main] INFO  testCases.TC002_LoginTest - ****** Close Browser ******
+17:03:40.897 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Initializing Browser ******
+17:03:47.300 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest ******
+17:03:57.364 [main] ERROR testCases.TC001_AccountRegistrationTest - ****** Test Failed... ******
+17:03:57.364 [main] DEBUG testCases.TC001_AccountRegistrationTest - ****** Debug Log... ******
+17:03:57.440 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Close Browser ******
+17:03:57.811 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+17:04:01.628 [main] INFO  testCases.TC002_LoginTest - ****** Starting of th Login ******
+17:04:11.711 [main] INFO  testCases.TC002_LoginTest - ****** Close Browser ******
+17:12:39.031 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Initializing Browser ******
+17:12:44.258 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest ******
+17:12:54.350 [main] ERROR testCases.TC001_AccountRegistrationTest - ****** Test Failed... ******
+17:12:54.350 [main] DEBUG testCases.TC001_AccountRegistrationTest - ****** Debug Log... ******
+17:12:54.611 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Close Browser ******
+17:12:54.956 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+17:12:59.528 [main] INFO  testCases.TC002_LoginTest - ****** Starting of th Login ******
+17:13:09.824 [main] INFO  testCases.TC002_LoginTest - ****** Close Browser ******
+17:17:05.322 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+17:17:11.518 [main] INFO  testCases.TC002_LoginTest - ****** Starting of th Login ******
+17:17:21.945 [main] INFO  testCases.TC002_LoginTest - ****** Close Browser ******
+17:18:50.432 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+17:18:55.837 [main] INFO  testCases.TC002_LoginTest - ****** Starting of th Login ******
+17:19:06.215 [main] INFO  testCases.TC002_LoginTest - ****** Close Browser ******
+20:56:51.837 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+20:57:01.529 [main] INFO  testCases.TC002_LoginTest - ****** Starting of th Login ******
+20:57:11.883 [main] INFO  testCases.TC002_LoginTest - ****** Close Browser ******
+21:15:08.728 [main] INFO  testCases.TC002_LoginTest - ****** Initializing Browser ******
+21:15:14.249 [main] INFO  testCases.TC002_LoginTest - ****** Starting of th Login ******
+21:15:24.549 [main] INFO  testCases.TC002_LoginTest - ****** Close Browser ******
